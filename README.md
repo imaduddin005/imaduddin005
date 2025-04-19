@@ -1,5 +1,5 @@
 <!-- Top Black Line -->
-<img src="https://via.placeholder.com/2000x5/000000/000000" width="100%"/>
+<img src="https://via.placeholder.com/2000x5/000000/000000" width="70%"/>
 
 <!-- Banner GIF -->
 <p align="center">
