@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Imad ud Din 👋</h1>
+<h1 align="center">Hi, I'm Imad ud Din </h1>
 <h3 align="center">AI Engineer · Generative AI · Agentic AI · RAG Systems</h3>
 
 <p align="center">
