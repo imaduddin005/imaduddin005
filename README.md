@@ -11,17 +11,11 @@
 
 ### About
 
-AI Engineer specializing in **Generative AI, Agentic AI, and RAG-based systems**, with hands-on experience developing LLM-powered applications, AI agents with tool integration, and intelligent pipelines using **LangChain, LangGraph, and vector databases**. Brings strong Machine Learning and Deep Learning foundations — spanning CNNs, RNNs, transfer learning, and model optimization — applied across real-world computer vision and medical imaging projects to deliver scalable, production-ready AI solutions.
-
-I design and build **Retrieval-Augmented Generation systems from the ground up** — document ingestion, chunking, embedding generation, vector store integration, and retrieval-grounded response generation — engineered to cut hallucinations and keep LLM outputs accurate, current, and traceable to real source data. I take the same systems-first approach to **Agentic AI**: building LLM agents that reason in multi-step chains, call external tools and APIs autonomously, and verify their own outputs, using LangChain, LangGraph, and MCP for orchestration.
-
-Recent Computer Science graduate (BS, Pak-Austria Institute of Applied Sciences & Technology, 2026) with three industry internships across AI/ML engineering, LLM/RAG development, and government IT, completed alongside full-time academic studies.
-
-- 🔭 Currently building **agentic AI pipelines** with LangChain & LangGraph, including multi-agent research systems with tool-grounded reasoning
-- 🧠 Strong foundation in **Deep Learning** — CNNs, RNNs/LSTMs/GRUs, transfer learning, model explainability (Grad-CAM++)
-- 🧩 Building **production-grade RAG systems** end-to-end: ingestion → embeddings → retrieval → grounded generation
-- 🩻 Applied AI to real-world domains: **medical imaging, veterinary ML, voice assistants**
-- 🎓 Recent graduate, open to AI Engineering opportunities
+AI Engineer specializing in Generative AI, Agentic AI, RAG, and AI Automation, with hands-on experience developing
+LLM-powered applications, AI agents with tool integration, and intelligent automation pipelines using LangChain, LangGraph,
+and vector databases. Brings strong Machine Learning and Deep Learning foundations — spanning CNNs, RNNs, transfer
+learning, and model optimization — applied across real-world computer vision and medical imaging projects to deliver scalable,
+production-ready AI solutions.
 
 ---
 
